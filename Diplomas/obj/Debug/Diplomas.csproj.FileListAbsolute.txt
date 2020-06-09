@@ -1,0 +1,95 @@
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\bin\Debug\Diplomas.exe.config
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\bin\Debug\Diplomas.exe
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\bin\Debug\Diplomas.pdb
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.Datos.resources
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.Properties.Resources.resources
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.csproj.GenerateResource.Cache
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.exe
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.pdb
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.csprojResolveAssemblyReference.cache
+c:\users\daniel 2\documents\visual studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.Diplomad.resources
+C:\Users\Daniel 2\Documents\Visual Studio 2015\Projects\Diplomas\Diplomas\bin\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Documents\Visual Studio 2015\Projects\Diplomas\Diplomas\bin\Debug\Diplomas.application
+C:\Users\Daniel 2\Documents\Visual Studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Documents\Visual Studio 2015\Projects\Diplomas\Diplomas\obj\Debug\Diplomas.application
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe.config
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.application
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Diplomad.resources
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Datos.resources
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Properties.Resources.resources
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.csproj.GenerateResource.Cache
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Diplomas\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.application
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\bin\Debug\Diplomas.exe.config
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\bin\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\bin\Debug\Diplomas.application
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\bin\Debug\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\bin\Debug\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.Diplomad.resources
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.Datos.resources
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.Properties.Resources.resources
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.csproj.GenerateResource.Cache
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.application
+C:\Users\Daniel 2\Desktop\Diplomas\Diplomas\obj\Debug\Diplomas.Checador.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe.config
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.application
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Checador.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Diplomad.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Datos.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Properties.Resources.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.csproj.GenerateResource.Cache
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.application
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntemredioIII.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntermedioI.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntermedioII.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntermedioIII.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntermedioIV.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.VisorAlumnos.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.VerYEditar.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Menus.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Pasar.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Subir.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Cursos_Nuevos.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe.config
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.application
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Debug\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Checador.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Cursos_Nuevos.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Diplomad.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Datos.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntemredioIII.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntermedioI.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntermedioII.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntermedioIII.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.IntermedioIV.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Menus.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Pasar.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Properties.Resources.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.Subir.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.VerYEditar.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.VisorAlumnos.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.csproj.GenerateResource.Cache
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Debug\Diplomas.application

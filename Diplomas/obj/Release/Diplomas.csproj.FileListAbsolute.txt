@@ -1,0 +1,55 @@
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.exe.config
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.application
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Checador.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Diplomad.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Datos.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntemredioIII.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntermedioI.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntermedioII.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntermedioIII.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntermedioIV.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Properties.Resources.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.VerYEditar.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.VisorAlumnos.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.csproj.GenerateResource.Cache
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.application
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Menus.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Pasar.resources
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Subir.resources
+C:\Users\Daniel 2\Desktop\Servicio\Version de 19 de Abril 2020\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.exe.config
+C:\Users\Daniel 2\Desktop\Servicio\Version de 19 de Abril 2020\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Servicio\Version de 19 de Abril 2020\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Servicio Social\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Cursos_Nuevos.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.exe.config
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.application
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.exe
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\bin\Release\Diplomas.pdb
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Checador.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Cursos_Nuevos.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Diplomad.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Datos.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntemredioIII.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntermedioI.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntermedioII.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntermedioIII.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.IntermedioIV.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Menus.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Pasar.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Properties.Resources.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.Subir.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.VerYEditar.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.VisorAlumnos.resources
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.csproj.GenerateResource.Cache
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.exe.manifest
+C:\Users\Daniel 2\Desktop\Bases de Datos\Servicio-Social\Diplomas\Diplomas\obj\Release\Diplomas.application
